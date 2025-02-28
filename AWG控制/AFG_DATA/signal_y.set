@@ -1,0 +1,8 @@
+MAGIC 4000
+Version 3
+Instrument AWG710
+Ch1WaveformSequence "signal_y.csv"
+Ch1Amplitude 2
+Ch1Offset 0
+Clock 100000000
+ClockReference Internal
